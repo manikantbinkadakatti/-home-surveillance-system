@@ -79,7 +79,6 @@ home-surveillance-system/
 
 ## Authors
 - Manikant Binkadakatti – Automation & Robotics, KLE Technological University
-- Team 5 Members – Samarth I, Radhika V, Mubeen, Manasi S
 
 ## License
 This project is for academic purposes. Contact authors for reuse or collaboration.
