@@ -1,4 +1,4 @@
-# Home Surveillance System 🏡🔒
+# Home Surveillance System 
 
 ## Overview
 This project presents a **smart home surveillance system** integrating modern technologies like **ESP32-CAM**, **motion detection**, **smoke detection**, **mobile alerts**, and **smart locking mechanisms**. The goal is to provide a cost-effective, compact, and user-friendly security solution that can be managed remotely.
